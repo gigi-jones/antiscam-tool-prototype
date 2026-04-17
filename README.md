@@ -9,13 +9,13 @@ This prototype is a **funder-facing concept demonstration**, not a working tool.
 - What each module of the Stage 1 Assessment asks of users
 - **The output produced at each stage** — this is the core of the demonstration
 - How the assessment is structured to serve any entry-point (financial authority, senior political figure, cross-government coordinator, or development partner)
-- How the final output — the "living map" — provides a common basis for discussion, action, and scaling
+- How the final outputs provide a common basis for discussion, action, and scaling
 
 The prototype shows representative sample questions per module rather than the full questionnaire. In production, each module contains detailed branching assessments that adjust based on prior answers.
 
 ## Context
 
-The tool is being developed to accompany RUSI CFS's research on authorised payment fraud policy, with potential funding support from the Gates Foundation. It is grounded in:
+The tool is being developed to accompany RUSI CFS's research on authorised payment fraud policy. It is grounded in:
 
 - A comprehensive literature review and 34 stakeholder interviews across 16 countries
 - Validation input from expert reviewers including Nick Bourke (Consumer Bankers Association / Roadmap to a National Strategy)
